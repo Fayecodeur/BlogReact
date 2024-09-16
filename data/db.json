@@ -1,0 +1,25 @@
+{
+  "blogs": [
+    {
+      "id": "1",
+      "title": "Introduction au blog",
+      "content": "Voici le premier article sur notre blog. Il contient des informations intéressantes sur divers sujets.",
+      "author": "Alice Dupont",
+      "date": "2024-09-01"
+    },
+    {
+      "id": "2",
+      "title": "Tendances Technologiques",
+      "content": "Le deuxième article parle des dernières tendances en technologie et comment elles influencent notre quotidien.",
+      "author": "Bob Martin",
+      "date": "2024-09-05"
+    },
+    {
+      "id": "3",
+      "title": "Développement Durable",
+      "content": "Dans cet article, nous explorons les meilleures pratiques en matière de développement durable.",
+      "author": "Clara Lefèvre",
+      "date": "2024-09-07"
+    }
+  ]
+}
